@@ -4,7 +4,7 @@ Tutorial práctico para aprender observabilidad con OpenTelemetry, instrumentand
 
 ## 📖 Artículo completo
 
-Lee el tutorial paso a paso en: **[observasistemas.com](https://observasistemas.com)** _(añade aquí el link cuando publiques)_
+Lee el tutorial paso a paso en: **[observasistemas.com]([https://observasistemas.com](https://observasistemas.com/mini-tutorial-opentelemetry-con-python-y-flask/))** 
 
 ## 🎯 ¿Qué aprenderás?
 
